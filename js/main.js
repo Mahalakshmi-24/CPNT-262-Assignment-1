@@ -23,8 +23,7 @@ const fetchData = async function (url) {
      <p>Diet: ${data.diet}</p>
      <p>Diet: ${data.geo_range}</p>
      <p>habitat: ${data.habitat}</p>
-     <p>lifespan: ${data.lifespan}</p>
-     <p>Id: ${data.id}</p>
+    
 
     
      `;
