@@ -22,7 +22,7 @@ const fetchData = async function (url) {
      <img src="${data.image_link}" alt="Images of ${data.name}" style: width="400px" height="400px"">
      <p>Diet: ${data.diet}</p>
      <p>Diet: ${data.geo_range}</p>
-     <p>habitat: ${data.habitat}</p>
+     <p>Habitat: ${data.habitat}</p>
     
 
     
